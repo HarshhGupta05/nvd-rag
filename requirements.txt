@@ -1,0 +1,10 @@
+﻿requests
+langchain
+langchain-chroma
+langchain-huggingface
+langchain-openai
+chromadb
+sentence-transformers
+typer
+rich
+pydantic-settings
